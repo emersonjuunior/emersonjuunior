@@ -9,7 +9,7 @@
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonjuunior&layout=compact&theme=radical" alt="Linguagens Utilizadas" width="45%" height="200px" />
 
-<img src="https://i.pinimg.com/originals/28/e6/e1/28e6e16b4eee580edadfc42452bc9d74.gif" alt="Gif Programação" width="40%" height="50%"/>
+<img src="https://i.pinimg.com/originals/28/e6/e1/28e6e16b4eee580edadfc42452bc9d74.gif" alt="Gif Programação" width="43%" height="50%"/>
 
 </div>
 
