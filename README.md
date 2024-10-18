@@ -2,7 +2,7 @@
 
 - 👋 Emerson, 19 anos
 - 💻 Desenvolvedor Front-End
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na PUC Minas
 - 🤓☝️ Atualmente estudando **React Js**
 - ⚡ Aprendendo mais a cada dia
 
