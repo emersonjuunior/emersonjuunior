@@ -3,7 +3,7 @@
 - 👋 Emerson, 19 anos
 - 💻 Desenvolvedor Front-End
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na PUC Minas
-- 🤓☝️ Atualmente estudando **React Js**
+- 🤓☝️ Atualmente estudando **TypeScript**
 - ⚡ Aprendendo mais a cada dia
 
 <div>
@@ -22,7 +22,9 @@
 
 <img align="center" width="60" height ="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript"/>
 
-<img align="center" width="60" height ="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="javascript"/>
+<img align="center" width="60" height ="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react"/>
+
+<img align="center" width="60" height ="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss"/>
 
 <img align="center" width="60" height ="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="sass/scss"/>
 
