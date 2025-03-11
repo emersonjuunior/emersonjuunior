@@ -3,7 +3,7 @@
 - 👋 Emerson, 19 anos
 - 💻 Desenvolvedor Front-End
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na PUC Minas
-- 🤓☝️ Atualmente estudando **TypeScript**
+- 🤓☝️ Atualmente estudando **Next Js**
 - ⚡ Aprendendo mais a cada dia
 
 <div>
@@ -30,10 +30,6 @@
 
 <img align="center" width="60" height ="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="sass/scss"/>
 
-<img align="center" width="60" height ="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#"/>
-
-<img align="center" width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet"/>
-
 ## ⚙️ Ferramentas
 
 <img align="center" width="60" height ="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode"/>
@@ -41,8 +37,6 @@
 <img align="center" width="60" height ="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git"/>
 
 <img align="center" width="70" height="70" src="https://github.com/user-attachments/assets/e4c9ba85-b143-48a8-884a-59336b51e796" alt="github"/>
-
-<img align="center" width="60" height ="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visualstudio"/>
 
 </div>
 
