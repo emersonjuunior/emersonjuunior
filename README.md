@@ -1,6 +1,6 @@
 # Bem vindo ao meu perfil! 🤝
 
-- 👋 Emerson, 19 anos
+- 👋 Emerson, 20 anos
 - 💻 Desenvolvedor Front-End
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na PUC Minas
 - 🤓☝️ Atualmente estudando **Next Js**
